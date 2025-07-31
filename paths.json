@@ -1,0 +1,19 @@
+{
+    "mappings": [
+      "/content/pbakliwal/secur-financial/:/",
+      "/content/pbakliwal/secur-financial/configuration:/.helix/config.json",
+      "/content/pbakliwal/secur-financial/metadata:/metadata.json",
+      "/content/pbakliwal/secur-financial/configs:/configs.json",
+      "/content/pbakliwal/secur-financial/configs-stage:/configs-stage.json",
+      "/content/pbakliwal/secur-financial/configs-dev:/configs-dev.json",
+      "/content/pbakliwal/secur-financial/redirects:/redirects.json",
+      "/content/pbakliwal/secur-financial/placeholders:/placeholders.json",
+      "/content/pbakliwal/secur-financial/products/recommended-products:/products/recommended-products.json",
+      "/content/pbakliwal/secur-financial/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/pbakliwal/secur-financial/images/products/:/images/products/"
+    ],
+    "includes": [
+      "/content/pbakliwal/secur-financial",
+      "/content/dam/citisignal/images/products/"
+    ]
+}

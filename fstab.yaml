@@ -1,0 +1,6 @@
+# The default is for AEM UE. Make sure to change the URL to your AEM instance and GitHub repository.
+mountpoints:
+  /:
+    url: https://author-p142310-e1462720.adobeaemcloud.com/bin/franklin.delivery/svfranklindemo/pbakliwal-ldscopilot-25042025-95753/main
+    type: markup
+    suffix: ".html?wcmmode=disabled"
