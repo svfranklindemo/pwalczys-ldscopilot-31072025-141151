@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/pbakliwal/secur-financial/:/",
-      "/content/pbakliwal/secur-financial/configuration:/.helix/config.json",
-      "/content/pbakliwal/secur-financial/metadata:/metadata.json",
-      "/content/pbakliwal/secur-financial/configs:/configs.json",
-      "/content/pbakliwal/secur-financial/configs-stage:/configs-stage.json",
-      "/content/pbakliwal/secur-financial/configs-dev:/configs-dev.json",
-      "/content/pbakliwal/secur-financial/redirects:/redirects.json",
-      "/content/pbakliwal/secur-financial/placeholders:/placeholders.json",
-      "/content/pbakliwal/secur-financial/products/recommended-products:/products/recommended-products.json",
-      "/content/pbakliwal/secur-financial/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/pbakliwal/secur-financial/images/products/:/images/products/"
+      "/content/pwalczys/new_demo/:/",
+      "/content/pwalczys/new_demo/configuration:/.helix/config.json",
+      "/content/pwalczys/new_demo/metadata:/metadata.json",
+      "/content/pwalczys/new_demo/configs:/configs.json",
+      "/content/pwalczys/new_demo/configs-stage:/configs-stage.json",
+      "/content/pwalczys/new_demo/configs-dev:/configs-dev.json",
+      "/content/pwalczys/new_demo/redirects:/redirects.json",
+      "/content/pwalczys/new_demo/placeholders:/placeholders.json",
+      "/content/pwalczys/new_demo/products/recommended-products:/products/recommended-products.json",
+      "/content/pwalczys/new_demo/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/pwalczys/new_demo/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/pbakliwal/secur-financial",
+      "/content/pwalczys/new_demo",
       "/content/dam/citisignal/images/products/"
     ]
 }
